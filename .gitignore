@@ -1,1 +1,6 @@
 __pycache__/
+*png
+Threads.py
+WLcProfiler.py
+d.py
+OtherFuncs.py
