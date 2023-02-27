@@ -20,21 +20,23 @@ Note: Because the algorithm performs a DFS, it may find a solution quicker if th
 
 Listed below are good examples of word pairs to see the algorithm in action. Word pairs are from the `Good WL Examples.txt` file.
 
-`fail mate`
-`crane state`
-`paper holds`
-`cord bean`
-`pause cases`
-`chair files`
-`ladder hammer`
-`chart frame`
-`notes block`
-`masks break`
-`trucker kitchen`
-`chairs summer`
-`quilt tower`
-`hammer tokens`
-`harden clicks`
-`phone apple`
-`henry david`
-`great value`
+```
+fail mate
+crane state
+paper holds
+cord bean
+pause cases
+hair files
+ladder hammer
+chart frame
+notes block
+masks break
+trucker kitchen
+chairs summer
+quilt tower
+hammer tokens
+harden clicks
+phone apple
+henry david
+great value
+```
